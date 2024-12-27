@@ -230,7 +230,7 @@ export default function App() {
               <h1
                 className={`${
                   showsOnce ? 'fill-text-title' : 'hidden'
-                } overflow-hidden font-helios-condensed text-4xl text-colorTitle`}>
+                } overflow-hidden font-helios-condensed text-5xl font-bold tracking-wide text-blue-500`}>
                 Product Showcase
               </h1>
             </div>

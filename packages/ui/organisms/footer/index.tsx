@@ -7,7 +7,9 @@ export const Footer = () => {
       <div className="container mx-auto max-w-7xl px-4">
         <div className="text-center">
           <h2 className="mb-4 text-3xl font-bold">PT. Trinity SteelIndo</h2>
-          <p className="mb-8 text-sm">Thank you for your trust!</p>
+          <p className="mb-8 text-sm">
+            We are ready to meet your construction needs!
+          </p>
         </div>
 
         <div className="flex flex-col gap-y-8 md:flex-row md:gap-x-16">
