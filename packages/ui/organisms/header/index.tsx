@@ -50,8 +50,8 @@ export const Header = ({logoWhite, logoBlack, navLinks}: Props) => {
         type: 'spring',
         stiffness: 100,
         damping: 15,
-        when: 'beforeChildren', // Ensures children animate after the container
-        staggerChildren: 0.1, // Staggers the animation of children
+        when: 'beforeChildren',
+        staggerChildren: 0.1,
       },
       display: 'flex',
       flexDirection: 'column',

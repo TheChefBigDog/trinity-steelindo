@@ -1,1 +1,2 @@
-export {NavbarBackground} from './nav-background';
+export {Navbar} from './nav-background';
+export {MapLocation} from './map-location';
